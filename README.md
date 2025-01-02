@@ -77,7 +77,7 @@ const skills = {
   <table>
     <tr>
       <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/RamezHany/RamezHany/main/project1.png" alt="Project 1" width="100%" style="border-radius: 10px;">
+        <img src="https://cdn.dribbble.com/userupload/10591657/file/original-0c14503d27301610af7ac47624197c5f.png?resize=752x" alt="Project 1" width="100%" style="border-radius: 10px;">
         <br>
         <strong>AI-Powered Task Manager</strong>
         <br>
@@ -91,7 +91,7 @@ const skills = {
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </td>
       <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/RamezHany/RamezHany/main/project2.png" alt="Project 2" width="100%" style="border-radius: 10px;">
+        <img src="https://cdn.dribbble.com/userupload/10591658/file/original-e911d9c3895c61c3db23f8e56c9b7293.png?resize=752x" alt="Project 2" width="100%" style="border-radius: 10px;">
         <br>
         <strong>E-Commerce Platform</strong>
         <br>
@@ -105,7 +105,7 @@ const skills = {
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
       </td>
       <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/RamezHany/RamezHany/main/project3.png" alt="Project 3" width="100%" style="border-radius: 10px;">
+        <img src="https://cdn.dribbble.com/userupload/10591659/file/original-5f2f8c89e661e9f67c062d24d0a4b5e8.png?resize=752x" alt="Project 3" width="100%" style="border-radius: 10px;">
         <br>
         <strong>HealthTech Analytics</strong>
         <br>
