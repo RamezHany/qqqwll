@@ -76,23 +76,54 @@ const skills = {
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/RamezHany/RamezHany/main/project1.png" alt="Project 1" width="100%" style="border-radius: 10px;">
+        <br>
+        <strong>AI-Powered Task Manager</strong>
+        <br>
+        <p>Smart task management app with AI prioritization and team collaboration features</p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Project_1-View_Demo-FF3E00?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View_Demo-FF3E00?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
+        <br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </td>
-      <td align="center">
+      <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/RamezHany/RamezHany/main/project2.png" alt="Project 2" width="100%" style="border-radius: 10px;">
+        <br>
+        <strong>E-Commerce Platform</strong>
+        <br>
+        <p>Modern e-commerce solution with real-time inventory and AI-powered recommendations</p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Project_2-Live_Site-4CAF50?style=for-the-badge&logo=web&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live_Site-4CAF50?style=for-the-badge&logo=web&logoColor=white"/>
         </a>
+        <br>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
       </td>
-      <td align="center">
+      <td width="33%" align="center">
+        <img src="https://raw.githubusercontent.com/RamezHany/RamezHany/main/project3.png" alt="Project 3" width="100%" style="border-radius: 10px;">
+        <br>
+        <strong>HealthTech Analytics</strong>
+        <br>
+        <p>Healthcare analytics dashboard with real-time patient monitoring and predictive analytics</p>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Project_3-Case_Study-2196F3?style=for-the-badge&logo=notion&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Case_Study-2196F3?style=for-the-badge&logo=notion&logoColor=white"/>
         </a>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </td>
     </tr>
   </table>
+
+  <a href="https://github.com/RamezHany?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Projects-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 ## 📊 GitHub Analytics
