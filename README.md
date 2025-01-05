@@ -60,6 +60,7 @@ const skills = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
 ## 📈 Professional Journey
 
 - 🎯 **Current Focus**: Full-stack development with modern JavaScript frameworks
