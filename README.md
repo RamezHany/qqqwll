@@ -130,11 +130,6 @@ const skills = {
   </a>
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamezHany&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 ## 🤝 Let's Connect!
 
